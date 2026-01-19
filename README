@@ -1,12 +1,7 @@
-saait
+stagit
 =====
 
-My mirror of the most boring static page generator.
-
-Meaning of saai (dutch): boring
-Pronounciation:          site
-
-Some parts are intentionally hardcoded in C for simplicity.
+My mirror of stagit
 
 Original: 
 https://www.codemadness.nl/git/stagit
